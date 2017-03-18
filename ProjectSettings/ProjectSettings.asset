@@ -461,7 +461,7 @@ PlayerSettings:
   XboxOnePersistentLocalStorageSize: 0
   vrEditorSettings: {}
   cloudServicesEnabled:
-    Collab: 1
+    Collab: 0
     UNet: 1
   cloudProjectId: ac264640-dae7-4786-91e5-abd7bcd59147
   projectName: CardChessGame
